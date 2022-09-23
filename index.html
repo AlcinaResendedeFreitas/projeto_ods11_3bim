@@ -14,75 +14,88 @@
     
     <!--Navbar-->
     <nav class="navbar navbar-light bg-primary shadow container-fluid">
-        <div class="row px-4 m-0 text-white">
-                <div class="col-3">
+        <div class="row px-4 text-white">
+                <div class="col-2 py-2">
                     <img src="imgs/onu-logo.png" class="d-inline-block" width="72" height="60">
                 </div>
-                <div class="col-9 py-3">
-                    <h4>Nações Unidas Brasil</h4>
+                <div class="col-10 px-4 py-3">
+                    <h2>Nações Unidas Brasil</h2>
                 </div>
         </div>
     </nav>
     <!--Fim da navbar-->
 
     <!--Banner-->
-
-    <!--Fim do banner-->
-
-    <div class="container-fluid">
-      <div class="row my-5">
-        <div class="col">
-          <div class="carousel slide" data-ride="carousel">
-            <ol class="carousel-indicators">
-              <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-              <li data-target="#myCarousel" data-slide-to="1"></li>
-              <li data-target="#myCarousel" data-slide-to="2"></li>
-            </ol>
-          
-            <div class="carousel-inner">
-              <div class="item active">
-                <img src="imgs/carrossel1-img1.jpg" alt="Los Angeles">
+    <div class="p-5 text-center bg-image" style="
+    background: url('imgs/bg-main.jpg');">
+    <div class="mask" style="background-color: rgba(0, 0, 0, 0.815);">
+      <div class="d-flex justify-content-center align-items-center h-100">
+        <div class="text-white">
+          <div class="container col-xxl-8 px-3 py-5">
+            <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
+              <div class="col-10 col-sm-8 col-lg-6">
+                <img src="imgs/lgo-ods-11.png" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy">
               </div>
-          
-              <div class="item">
-                <img src="imgs/carrossel1-img2.jpg" alt="Chicago">
-              </div>
-          
-              <div class="item">
-                <img src="imgs/carrossel1-img3.jpg" alt="New York">
+              <div class="col-lg-6">
+                <h1 id="banner-text-color" class="display-5 fw-bold lh-1 mb-3 h1">Cidades e comunidades sustentáveis</h1>
+                <p id="banner-text-color" class="h4">Objetivo de desenvolvimento sustentável 11</p>
               </div>
             </div>
-          
-            <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-              <span class="glyphicon glyphicon-chevron-left"></span>
-              <span class="sr-only">Previous</span>
-            </a>
-            <a class="right carousel-control" href="#myCarousel" data-slide="next">
-              <span class="glyphicon glyphicon-chevron-right"></span>
-              <span class="sr-only">Next</span>
-            </a>
           </div>
+          </div>
+      </div>
+    </div>
+    </div>
+    <!--Fim do banner-->
+
+    <div class="container-fluid text-white bg-dark py-5 px-5">
+      <div class="row px-2 py-5">
+        <div class="col-7">
+    <!--Carrossel 1-->
+          <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-inner rounded">
+              <div class="carousel-item active">
+                <img src="imgs/carrossel1-img1.jpg" class="d-block w-100" alt="...">
+              </div>
+              <div class="carousel-item">
+                <img src="imgs/carrossel1-img2.jpg" class="d-block w-100" alt="...">
+              </div>
+              <div class="carousel-item">
+                <img src="imgs/carrossel1-img3.jpg" class="d-block w-100" alt="...">
+              </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span>
+            </button>
+          </div>
+    <!--Fim do carrossel 1-->
         </div>
-        <div class="col">
+        <div class="col-5 px-5 my-5 py-5 h1">
           "Tornar as cidades e comunidades mais inclusivas, seguras, resilientes e sustentáveis"
         </div>
       </div>
 
-      <div class="row">
+      <div class="row px-2">
         <div class="col">
           Atualmente mais da metade da população mundial (4,4 bilhões) vive em cidades, e é previsto que esse número irá subir para 68% até 2050, a urbanização é uma das tendências mais transformadoras do mundo.
         </div>
       </div>
 
-      <div class="row">
+      <div class="row px-2">
         <div class="col">
           As cidades compreendem menos de 3% da superfície da Terra, mas concentram uma imensa parte da população, indústria e uso de energia, levando a uma enorme poluição local e degradação ambiental. Nas cidades, aproximadamente 78% das emissões de carbono são decorrentes de atividades humanas, por isso, o ODS 11 visa garantir até 2030 coisas como:
           </div>
       </div>
 
+      <!--Cards-->
       <div class="row mx-5 px-5 my-5">
         <div class="col-md-4 col-sm-12">
-          <div class="card" style="width: 18rem;">
+          <div class="card bg-dark text-white border-secondary" style="width: 18rem;">
             <img class="card-img-top" src="imgs/subobjetivo-1.svg" alt="Card image cap">
             <div class="card-body">
               <h5 class="card-title">Proteção do patrimônio cultural e natural</h5>
@@ -91,7 +104,7 @@
         </div>
 
         <div class="col-md-4 col-sm-12">
-          <div class="card" style="width: 18rem;">
+          <div class="card bg-dark text-white border-secondary" style="width: 18rem;">
             <img class="card-img-top" src="imgs/subobjetivo-2.svg" alt="Card image cap">
             <div class="card-body">
               <h5 class="card-title">Transporte público seguro e acessível</h5>
@@ -100,7 +113,7 @@
         </div>
 
         <div class="col-md-4 col-sm-12">
-          <div class="card" style="width: 18rem;">
+          <div class="card bg-dark text-white border-secondary" style="width: 18rem;">
             <img class="card-img-top" src="imgs/subobjetivo-3.svg " alt="Card image cap">
             <div class="card-body">
               <h5 class="card-title">Urbanização inclusiva e sustentável</h5>
@@ -108,59 +121,53 @@
           </div>
         </div>
       </div>
-      <div class="row">
+      <!--Fim dos cards-->
+
+      <div class="row px-2">
         <div class="col">
           Exemplos de sustentabilidade
         </div>
       </div>
 
-      <div class="row">
+      <div class="row px-2">
         <div class="col">
-          <div id="myCarousel" class="carousel slide" data-ride="carousel">
-            <!-- Indicators -->
-            <ol class="carousel-indicators">
-              <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-              <li data-target="#myCarousel" data-slide-to="1"></li>
-              <li data-target="#myCarousel" data-slide-to="2"></li>
-            </ol>
-          
-            <!-- Wrapper for slides -->
+          <!--Carrossel 2-->
+          <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-indicators">
+              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+            </div>
             <div class="carousel-inner">
-              <div class="item active">
-                <img src="imgs/carrossel2-img1.jpg">
-                <div class="carousel-caption">
-                  <h3>Los Angeles</h3>
-                  <p>LA is always so much fun!</p>
+              <div class="carousel-item active">
+                <img src="imgs/carrossel2-img1.jpg" class="d-block w-100" alt="...">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>Morungaba</h5>
                 </div>
               </div>
-          
-              <div class="item">
-                <img src="imgs/carrossel2-img2.jpg">
-                <div class="carousel-caption">
-                  <h3>Chicago</h3>
-                  <p>Thank you, Chicago!</p>
+              <div class="carousel-item">
+                <img src="imgs/carrossel2-img2.webp" class="d-block w-100" alt="...">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>Morungaba</h5>
                 </div>
               </div>
-          
-              <div class="item">
-                <img src="imgs/carrossel2-img3.jpg">
-                <div class="carousel-caption">
-                  <h3>New York</h3>
-                  <p>We love the Big Apple!</p>
+              <div class="carousel-item">
+                <img src="imgs/carrossel2-img3.jpg" class="d-block w-100" alt="...">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>Morungaba</h5>
                 </div>
               </div>
             </div>
-          
-            <!-- Left and right controls -->
-            <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-              <span class="glyphicon glyphicon-chevron-left"></span>
-              <span class="sr-only">Previous</span>
-            </a>
-            <a class="right carousel-control" href="#myCarousel" data-slide="next">
-              <span class="glyphicon glyphicon-chevron-right"></span>
-              <span class="sr-only">Next</span>
-            </a>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span>
+            </button>
           </div>
+          <!--Fim do carrossel 2-->
         </div>
 
         <div class="col">
@@ -168,53 +175,45 @@
         </div>
       </div>
 
-      <div class="row">
+      <div class="row py-4 px-2">
         <div class="col">
-          <div id="myCarousel" class="carousel slide" data-ride="carousel">
-            <!-- Indicators -->
-            <ol class="carousel-indicators">
-              <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-              <li data-target="#myCarousel" data-slide-to="1"></li>
-              <li data-target="#myCarousel" data-slide-to="2"></li>
-            </ol>
-          
-            <!-- Wrapper for slides -->
+          <!--Carrossel 3-->
+          <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-indicators">
+              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+            </div>
             <div class="carousel-inner">
-              <div class="item active">
-                <img src="la.jpg" alt="Chania">
-                <div class="carousel-caption">
-                  <h3>Los Angeles</h3>
-                  <p>LA is always so much fun!</p>
+              <div class="carousel-item active">
+                <img src="imgs/carrossel3-img1.jpg" class="d-block w-100" alt="...">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>Copenhague</h5>
                 </div>
               </div>
-          
-              <div class="item">
-                <img src="chicago.jpg" alt="Chicago">
-                <div class="carousel-caption">
-                  <h3>Chicago</h3>
-                  <p>Thank you, Chicago!</p>
+              <div class="carousel-item">
+                <img src="imgs/carrossel3-img2.jpg" class="d-block w-100" alt="...">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>Copenhague</h5>
                 </div>
               </div>
-          
-              <div class="item">
-                <img src="ny.jpg" alt="New York">
-                <div class="carousel-caption">
-                  <h3>New York</h3>
-                  <p>We love the Big Apple!</p>
+              <div class="carousel-item">
+                <img src="imgs/carrossel3-img3.jpg" class="d-block w-100" alt="...">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>Copenhague</h5>
                 </div>
               </div>
             </div>
-          
-            <!-- Left and right controls -->
-            <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-              <span class="glyphicon glyphicon-chevron-left"></span>
-              <span class="sr-only">Previous</span>
-            </a>
-            <a class="right carousel-control" href="#myCarousel" data-slide="next">
-              <span class="glyphicon glyphicon-chevron-right"></span>
-              <span class="sr-only">Next</span>
-            </a>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span>
+            </button>
           </div>
+        <!--Fim do carrossel 3-->
         </div>
 
         <div class="col">
@@ -225,12 +224,12 @@
 
     <!--Footer-->
     <div class="container-fluid bg-primary text-white">
-        <footer class="row row-cols-4 py-5 px-5 border-top">
+        <footer class="row row-cols-4 py-5 px-5 shadow">
           <div class="col">
             <a class="d-flex align-items-center mb-3 text-decoration-none">
               <img class="bi me-2" src="imgs/onu-logo.png" width="160" height="135">
             </a>
-            <p class="text-white alig">© 2021</p>
+            <p class="text-white">© 2021</p>
           </div>
       
           <div class="col">
@@ -266,6 +265,7 @@
           </div>
         </footer>
     </div>
+    <!--Fim do footer-->
 
 </body>
 </html>
