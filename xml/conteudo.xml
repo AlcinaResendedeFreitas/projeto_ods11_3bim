@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conteudo>
+    <cabecalho>
+        <texto codigo="1">
+
+        </texto>
+        <imagem codigo="1">
+
+        </imagem>
+    </cabecalho>
+    <principal>
+        <texto codigo="1">
+
+        </texto>
+        <imagem codigo="1">
+
+        </imagem>
+    </principal>
+    <rodape>
+        <texto codigo="1">
+
+        </texto>
+        <imagem codigo="1">
+            
+        </imagem>
+    </rodape>
+</conteudo>
