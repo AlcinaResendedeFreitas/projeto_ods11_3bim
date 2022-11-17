@@ -9,18 +9,96 @@
         </imagem>
     </cabecalho>
     <principal>
-        <texto codigo="1">
-
+        <texto codigo="2">
+            "Tornar as cidades e comunidades mais inclusivas, seguras, resilientes e sustentáveis"
         </texto>
-        <imagem codigo="1">
-
+        <texto codigo="3">
+            Atualmente mais da metade da população mundial (4,4 bilhões) vive em cidades, e é previsto que esse número irá subir para 68% até 2050, a urbanização é uma das tendências mais transformadoras do mundo.
+        </texto>
+        <texto codigo="4">
+            As cidades compreendem menos de 3% da superfície da Terra, mas concentram uma imensa parte da população, indústria e uso de energia, levando a uma enorme poluição local e degradação ambiental. Nas cidades, aproximadamente 78% das emissões de carbono são decorrentes de atividades humanas, por isso, o ODS 11 visa garantir até 2030 coisas como:
+        </texto>
+        <texto codigo="4">
+            As cidades compreendem menos de 3% da superfície da Terra, mas concentram uma imensa parte da população, indústria e uso de energia, levando a uma enorme poluição local e degradação ambiental. Nas cidades, aproximadamente 78% das emissões de carbono são decorrentes de atividades humanas, por isso, o ODS 11 visa garantir até 2030 coisas como:
+        </texto>
+        <texto codigo="5">
+            Proteção do patrimônio cultural e natural
+        </texto>
+        <texto codigo="6">
+            Transporte público seguro e acessível
+        </texto>
+        <texto codigo="7">
+            Urbanização inclusiva e sustentável
+        </texto>
+        <texto codigo="8">
+            Exemplos de sustentabilidade
+        </texto>
+        <texto codigo="9">
+            Morungaba
+        </texto>
+        <texto codigo="10">
+            Morungaba
+        </texto>
+        <texto codigo="11">
+            Morungaba
+        </texto>
+        <texto codigo="12">
+            Com 14 mil habitantes, no interior de São Paulo, foi eleita a cidade mais sustentável do Brasil em 2021. Entre as iniciativas de destaque que colaboraram para a pontuação da cidade no ranking, está a campanha Coleta Premiada. Iniciada em 2018, ela ajudou a transformar Morungaba em uma cidade “lixo zero”, ou seja, que aproveita ao máximo os resíduos recicláveis e orgânicos.
+        </texto>
+        <texto codigo="13">
+            Copenhague
+        </texto>
+        <texto codigo="14">
+            Copenhague
+        </texto>
+        <texto codigo="15">
+            Copenhague
+        </texto>
+        <texto codigo="16">
+            A cidade sustenta o título de “A cidade mais verde do mundo”, cedido à ela em 2017 pelo grupo C40 de Grandes Cidade para a Liderança Climática. A cidade é uma das que mais investe no uso das bicicletas pela população. São aproximadamente 400km de ciclovias (que inclusive interligam a capital a outros municípios) e 50% da população usa este meio de transporte para se locomover para o trabalho ou escola. A cidade também investe em "telhados verdes", telhados não utilizados que desenvolvem a flora, gerenciando a água de chuva de forma eficiente e sustentável.
+        </texto>
+        <imagem codigo="2">
+            carrossel1-img1.jpg
+        </imagem>
+        <imagem codigo="3">
+            carrossel1-img2.webp
+        </imagem>
+        <imagem codigo="4">
+            carrossel1-img3.jpg
         </imagem>
     </principal>
     <rodape>
-        <texto codigo="1">
-
+        <texto codigo="17">
+            © 2021
         </texto>
-        <imagem codigo="1">
+        <texto codigo="18">
+            Contato
+        </texto>
+        <texto codigo="19">
+            Casa ONU Brasil Quadra 802, Conjunto C, Lote 17 Setor de Embaixadas Norte
+        </texto>
+        <texto codigo="20">
+            CEP: 70800-400
+        </texto>
+        <texto codigo="21">
+            Brasília, DF, Brasil
+        </texto>
+        <texto codigo="22">
+            +55 (61) 3038-9300
+        </texto>
+        <texto codigo="23">
+            Redes sociais
+        </texto>
+        <texto codigo="24">
+            Instagram
+        </texto>
+        <texto codigo="25">
+            Twitter
+        </texto>
+        <texto codigo="26">
+            Facebook
+        </texto>
+        <imagem codigo="3">
             
         </imagem>
     </rodape>
