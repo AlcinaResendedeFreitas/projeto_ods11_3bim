@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
     <link rel="stylesheet" href="css/style.css">
     <title>ONU Brasil: ODS 11</title>
+    <script src="js/funcoes.js"></script>
 </head>
 <body>
     <!--Navbar-->
@@ -18,7 +19,7 @@
             <img src="imgs/logo-ods-11.png" class="d-inline-block" width="72" height="72">
           </div>
           <div class="d-none col-md-10 d-md-flex px-md-3 py-md-4" id="title-text-color">
-            <h2>Cidades e Comunidades Sustentáveis</h2>
+            <h2 data-texto="1"><script>mostrarTexto();</script></h2>
           </div>
         </div>
     </nav>
@@ -32,7 +33,7 @@
           <div class="row g-5 py-5">
             <div class="col-lg-2"></div>
             <div class="col-lg-8 py-md-5 my-md-5 py-2 my-2">
-              <h1 id="title-text-color" class="display-5 fw-bold py-5">"Tornar as cidades e comunidades mais inclusivas, seguras, resilientes e sustentáveis"</h1>
+              <h1 id="title-text-color" class="display-5 fw-bold py-5" data-texto="2">"Tornar as cidades e comunidades mais inclusivas, seguras, resilientes e sustentáveis"</h1>
             </div>
             <div class="col-lg-2"></div>
           </div>
@@ -69,13 +70,13 @@
           </div>
     <!--Fim do carrossel 1-->
         </div>
-        <div class="col-md-5 col-12 px-md-5 my-md-0 py-md-0 px-5 my-4 py-4 h2">
+        <div class="col-md-5 col-12 px-md-5 my-md-0 py-md-0 px-5 my-4 py-4 h2" data-texto="3">
           A partir da década de 1950, o crescimento e a multiplicação das metrópoles foram espetaculares. Em 1950, por exemplo, só existiam sete cidades com mais de 5 milhões de habitantes, ao passo que em 1990 já existiam dezenas de cidades com mais de 5 milhões de habitantes.
         </div>
       </div>
 
       <div class="row py-md-4 px-md-2">
-        <div class="col-md-5 col-12 py-md-4 px-5 my-2 py-4 h1">
+        <div class="col-md-5 col-12 py-md-4 px-5 my-2 py-4 h1" data-texto="4">
           Atualmente mais da metade da população mundial (4,4 bilhões) vive em cidades, e é previsto que esse número irá subir para 68% até 2050, a urbanização é uma das tendências mais transformadoras do mundo.
         </div>
         <div class="col-md-7 col-12 py-md-4 px-5 mb-5 mt-2 py-5">
@@ -87,7 +88,7 @@
         <div class="col-md-5 col-12 py-md-2">
           <img class="img-responsive rounded" src="imgs/conteudo-img-2.jpg" width="100%">
         </div>
-        <div class="col-md-7 col-12 py-md-0 my-md-0 px-5 my-4 py-4 h2">
+        <div class="col-md-7 col-12 py-md-0 my-md-0 px-5 my-4 py-4 h2" data-texto="5">
           As cidades compreendem menos de 3% da superfície da Terra, mas concentram uma imensa parte da população, indústria e uso de energia, levando a uma enorme poluição local e degradação ambiental. Nas cidades, aproximadamente 78% das emissões de carbono são decorrentes de atividades humanas, por isso, o ODS 11 visa garantir até 2030 coisas como:
         </div>
       </div>
@@ -98,7 +99,7 @@
           <div class="card bg-dark text-white border-secondary" style="width: 18rem;">
             <img class="card-img-top" src="imgs/subobjetivo-1.svg" alt="Card image cap">
             <div class="card-body">
-              <h5 class="card-title">Proteção do patrimônio cultural e natural</h5>
+              <h5 class="card-title" data-texto="6">Proteção do patrimônio cultural e natural</h5>
             </div>
           </div>
         </div>
@@ -107,7 +108,7 @@
           <div class="card bg-dark text-white border-secondary" style="width: 18rem;">
             <img class="card-img-top" src="imgs/subobjetivo-2.svg" alt="Card image cap">
             <div class="card-body">
-              <h5 class="card-title">Transporte público seguro e acessível</h5>
+              <h5 class="card-title" data-texto="7">Transporte público seguro e acessível</h5>
             </div>
           </div>
         </div>
@@ -116,7 +117,7 @@
           <div class="card bg-dark text-white border-secondary" style="width: 18rem;">
             <img class="card-img-top" src="imgs/subobjetivo-3.svg " alt="Card image cap">
             <div class="card-body">
-              <h5 class="card-title">Urbanização inclusiva e sustentável</h5>
+              <h5 class="card-title" data-texto="8">Urbanização inclusiva e sustentável</h5>
             </div>
           </div>
         </div>
@@ -124,7 +125,7 @@
       <!--Fim dos cards-->
 
       <div class="row d-flex px-2 my-4">
-        <div id="title-text-color" class="col-6 col-md-12 justify-content-center h1">
+        <div id="title-text-color" class="d-flex col-6 col-md-12 justify-content-center h1" data-texto="9">
           Exemplos de sustentabilidade
         </div>
       </div>
@@ -142,19 +143,19 @@
               <div class="carousel-item active">
                 <img src="imgs/carrossel2-img1.jpg" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block">
-                  <h5>Morungaba</h5>
+                  <h5 data-texto="10">Morungaba</h5>
                 </div>
               </div>
               <div class="carousel-item">
                 <img src="imgs/carrossel2-img2.webp" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block">
-                  <h5>Morungaba</h5>
+                  <h5 data-texto="11">Morungaba</h5>
                 </div>
               </div>
               <div class="carousel-item">
                 <img src="imgs/carrossel2-img3.jpg" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block">
-                  <h5>Morungaba</h5>
+                  <h5 data-texto="12">Morungaba</h5>
                 </div>
               </div>
             </div>
@@ -170,7 +171,7 @@
           <!--Fim do carrossel 2-->
         </div>
 
-        <div class="col-md h3 py-md-0 my-md-0 px-5 my-4 py-2">
+        <div class="col-md h3 py-md-0 my-md-0 px-5 my-4 py-2" data-texto="13">
           Com 14 mil habitantes, no interior de São Paulo, foi eleita a cidade mais sustentável do Brasil em 2021. Entre as iniciativas de destaque que colaboraram para a pontuação da cidade no ranking, está a campanha Coleta Premiada. Iniciada em 2018, ela ajudou a transformar Morungaba em uma cidade “lixo zero”, ou seja, que aproveita ao máximo os resíduos recicláveis e orgânicos.
         </div>
       </div>
@@ -188,19 +189,19 @@
             <div class="carousel-item active">
               <img src="imgs/carrossel3-img1.jpg" class="d-block w-100" alt="...">
               <div class="carousel-caption d-none d-md-block">
-                <h5>Copenhague</h5>
+                <h5 data-texto="14">Copenhague</h5>
               </div>
             </div>
             <div class="carousel-item">
               <img src="imgs/carrossel3-img2.jpg" class="d-block w-100" alt="...">
               <div class="carousel-caption d-none d-md-block">
-                <h5>Copenhague</h5>
+                <h5 data-texto="15">Copenhague</h5>
               </div>
             </div>
             <div class="carousel-item">
               <img src="imgs/carrossel3-img3.jpg" class="d-block w-100" alt="...">
               <div class="carousel-caption d-none d-md-block">
-                <h5>Copenhague</h5>
+                <h5 data-texto="16">Copenhague</h5>
               </div>
             </div>
           </div>
@@ -216,7 +217,7 @@
         <!--Fim do carrossel 3-->
         </div>
 
-        <div class="col-md col-12 h4 py-md-0 my-md-0 px-5 my-4 py-4">
+        <div class="col-md col-12 h4 py-md-0 my-md-0 px-5 my-4 py-4" data-texto="17">
           A cidade sustenta o título de “A cidade mais verde do mundo”, cedido à ela em 2017 pelo grupo C40 de Grandes Cidade para a Liderança Climática. A cidade é uma das que mais investe no uso das bicicletas pela população. São aproximadamente 400km de ciclovias (que inclusive interligam a capital a outros municípios) e 50% da população usa este meio de transporte para se locomover para o trabalho ou escola. A cidade também investe em "telhados verdes", telhados não utilizados que desenvolvem a flora, gerenciando a água de chuva de forma eficiente e sustentável.
         </div>
       </div>
@@ -229,7 +230,7 @@
             <a class="d-flex align-items-center mb-3 text-decoration-none">
               <img class="bi me-2" src="imgs/onu-logo.png" width="160" height="135">
             </a>
-            <p class="text-white">© 2021</p>
+            <p class="text-white" data-texto="18">© 2021</p>
           </div>
       
           <div class="col-md col-12">
@@ -237,17 +238,17 @@
           </div>
       
           <div class="col-md col-12">
-            <h5>Contato</h5>
+            <h5 data-texto="19">Contato</h5>
             <ul class="nav flex-column">
-              <li class="nav-item mb-2"><a class="p-0 text-white text-decoration-none">Casa ONU Brasil Quadra 802, Conjunto C, Lote 17 Setor de Embaixadas Norte
-              <li class="nav-item mb-2"><a class="p-0 text-white text-decoration-none">CEP: 70800-400</a></li>
-              <li class="nav-item mb-2"><a class="p-0 text-white text-decoration-none">Brasília, DF, Brasil</a></li>
-              <li class="nav-item mb-2"><a class="p-0 text-white text-decoration-none">+55 (61) 3038-9300</a></li></a></li>
+              <li class="nav-item mb-2"><a class="p-0 text-white text-decoration-none" data-texto="20">Casa ONU Brasil Quadra 802, Conjunto C, Lote 17 Setor de Embaixadas Norte</a>
+              <li class="nav-item mb-2"><a class="p-0 text-white text-decoration-none" data-texto="21">CEP: 70800-400</a></li>
+              <li class="nav-item mb-2"><a class="p-0 text-white text-decoration-none" data-texto="22">Brasília, DF, Brasil</a></li>
+              <li class="nav-item mb-2"><a class="p-0 text-white text-decoration-none" data-texto="23">+55 (61) 3038-9300</a></li></li>
             </ul>
           </div>
       
           <div class="col-md col-12">
-            <h5>Redes sociais</h5>
+            <h5 data-texto="24">Redes sociais</h5>
             <ul class="nav flex-column">
                 <li class="nav-item">
                   <div class="row mb-1">
@@ -255,7 +256,7 @@
                       <i class="bi bi-instagram"></i>
                     </div>
                     <div class="col-md">
-                      <a href="https://www.instagram.com/onubrasil/" class="nav-link p-0 text-white">Instagram</a>
+                      <a href="https://www.instagram.com/onubrasil/" class="nav-link p-0 text-white" data-texto="25">Instagram</a>
                     </div>
                   </div>
                 </li>
@@ -265,7 +266,7 @@
                       <i class="bi bi-twitter"></i>
                     </div>
                     <div class="col-md">
-                      <a href="https://twitter.com/ONUBrasil" class="nav-link p-0 text-white">Twitter</a>
+                      <a href="https://twitter.com/ONUBrasil" class="nav-link p-0 text-white" data-texto="26">Twitter</a>
                     </div>
                   </div>
                 </li>
@@ -275,7 +276,7 @@
                       <i class="bi bi-facebook"></i>
                     </div>
                     <div class="col-md">
-                      <a href="https://www.facebook.com/ONUBrasil/" class="nav-link p-0 text-white">Facebook</a>
+                      <a href="https://www.facebook.com/ONUBrasil/" class="nav-link p-0 text-white" data-texto="27">Facebook</a>
                     </div>
                   </div>
                 </li>

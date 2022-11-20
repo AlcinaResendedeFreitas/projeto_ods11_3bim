@@ -1,61 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <conteudo>
     <cabecalho>
-        <texto codigo="1">
-            Cidades e Comunidades Sustentáveis
-        </texto>
         <imagem codigo="1">
             logo-ods-11.png
         </imagem>
+        <texto codigo="1">
+            Cidades e Comunidades Sustentáveis
+        </texto>
     </cabecalho>
     <principal>
         <texto codigo="2">
             "Tornar as cidades e comunidades mais inclusivas, seguras, resilientes e sustentáveis"
-        </texto>
-        <texto codigo="3">
-            Atualmente mais da metade da população mundial (4,4 bilhões) vive em cidades, e é previsto que esse número irá subir para 68% até 2050, a urbanização é uma das tendências mais transformadoras do mundo.
-        </texto>
-        <texto codigo="4">
-            As cidades compreendem menos de 3% da superfície da Terra, mas concentram uma imensa parte da população, indústria e uso de energia, levando a uma enorme poluição local e degradação ambiental. Nas cidades, aproximadamente 78% das emissões de carbono são decorrentes de atividades humanas, por isso, o ODS 11 visa garantir até 2030 coisas como:
-        </texto>
-        <texto codigo="4">
-            As cidades compreendem menos de 3% da superfície da Terra, mas concentram uma imensa parte da população, indústria e uso de energia, levando a uma enorme poluição local e degradação ambiental. Nas cidades, aproximadamente 78% das emissões de carbono são decorrentes de atividades humanas, por isso, o ODS 11 visa garantir até 2030 coisas como:
-        </texto>
-        <texto codigo="5">
-            Proteção do patrimônio cultural e natural
-        </texto>
-        <texto codigo="6">
-            Transporte público seguro e acessível
-        </texto>
-        <texto codigo="7">
-            Urbanização inclusiva e sustentável
-        </texto>
-        <texto codigo="8">
-            Exemplos de sustentabilidade
-        </texto>
-        <texto codigo="9">
-            Morungaba
-        </texto>
-        <texto codigo="10">
-            Morungaba
-        </texto>
-        <texto codigo="11">
-            Morungaba
-        </texto>
-        <texto codigo="12">
-            Com 14 mil habitantes, no interior de São Paulo, foi eleita a cidade mais sustentável do Brasil em 2021. Entre as iniciativas de destaque que colaboraram para a pontuação da cidade no ranking, está a campanha Coleta Premiada. Iniciada em 2018, ela ajudou a transformar Morungaba em uma cidade “lixo zero”, ou seja, que aproveita ao máximo os resíduos recicláveis e orgânicos.
-        </texto>
-        <texto codigo="13">
-            Copenhague
-        </texto>
-        <texto codigo="14">
-            Copenhague
-        </texto>
-        <texto codigo="15">
-            Copenhague
-        </texto>
-        <texto codigo="16">
-            A cidade sustenta o título de “A cidade mais verde do mundo”, cedido à ela em 2017 pelo grupo C40 de Grandes Cidade para a Liderança Climática. A cidade é uma das que mais investe no uso das bicicletas pela população. São aproximadamente 400km de ciclovias (que inclusive interligam a capital a outros municípios) e 50% da população usa este meio de transporte para se locomover para o trabalho ou escola. A cidade também investe em "telhados verdes", telhados não utilizados que desenvolvem a flora, gerenciando a água de chuva de forma eficiente e sustentável.
         </texto>
         <imagem codigo="2">
             carrossel1-img1.jpg
@@ -66,40 +21,118 @@
         <imagem codigo="4">
             carrossel1-img3.jpg
         </imagem>
+        <texto codigo="3">
+            A partir da década de 1950, o crescimento e a multiplicação das metrópoles foram espetaculares. Em 1950, por exemplo, só existiam sete cidades com mais de 5 milhões de habitantes, ao passo que em 1990 já existiam dezenas de cidades com mais de 5 milhões de habitantes.
+        </texto>
+        <texto codigo="4">
+            Atualmente mais da metade da população mundial (4,4 bilhões) vive em cidades, e é previsto que esse número irá subir para 68% até 2050, a urbanização é uma das tendências mais transformadoras do mundo.
+        </texto>
+        <imagem codigo="5">
+            conteudo-img-1.jpg
+        </imagem>
+        <imagem codigo="6">
+            conteudo-img-2.jpg
+        </imagem>
+        <texto codigo="5">
+            As cidades compreendem menos de 3% da superfície da Terra, mas concentram uma imensa parte da população, indústria e uso de energia, levando a uma enorme poluição local e degradação ambiental. Nas cidades, aproximadamente 78% das emissões de carbono são decorrentes de atividades humanas, por isso, o ODS 11 visa garantir até 2030 coisas como:
+        </texto>
+        <imagem codigo="7">
+            subobjetivo-1.svg
+        </imagem>
+        <texto codigo="6">
+            Proteção do patrimônio cultural e natural
+        </texto>
+        <imagem codigo="8">
+            subobjetivo-2.svg
+        </imagem>
+        <texto codigo="7">
+            Transporte público seguro e acessível
+        </texto>
+        <imagem codigo="9">
+            subobjetivo-3.svg
+        </imagem>
+        <texto codigo="8">
+            Urbanização inclusiva e sustentável
+        </texto>
+        <texto codigo="9">
+            Exemplos de sustentabilidade
+        </texto>
+        <imagem codigo="10">
+            carrossel2-img1.webp
+        </imagem>
+        <texto codigo="10">
+            Morungaba
+        </texto>
+        <imagem codigo="11">
+            carrossel2-img2.jpg
+        </imagem>
+        <texto codigo="11">
+            Morungaba
+        </texto>
+        <imagem codigo="12">
+            carrossel2-img3.jpg
+        </imagem>
+        <texto codigo="12">
+            Morungaba
+        </texto>
+        <texto codigo="13">
+            Com 14 mil habitantes, no interior de São Paulo, foi eleita a cidade mais sustentável do Brasil em 2021. Entre as iniciativas de destaque que colaboraram para a pontuação da cidade no ranking, está a campanha Coleta Premiada. Iniciada em 2018, ela ajudou a transformar Morungaba em uma cidade “lixo zero”, ou seja, que aproveita ao máximo os resíduos recicláveis e orgânicos.
+        </texto>
+        <imagem codigo="13">
+            carrossel3-img1.jpg
+        </imagem>
+        <texto codigo="14">
+            Copenhague
+        </texto>
+        <imagem codigo="14">
+            carrossel3-img2.webp
+        </imagem>
+        <texto codigo="15">
+            Copenhague
+        </texto>
+        <imagem codigo="15">
+            carrossel3-img3.jpg
+        </imagem>
+        <texto codigo="16">
+            Copenhague
+        </texto>
+        <texto codigo="17">
+            A cidade sustenta o título de “A cidade mais verde do mundo”, cedido à ela em 2017 pelo grupo C40 de Grandes Cidade para a Liderança Climática. A cidade é uma das que mais investe no uso das bicicletas pela população. São aproximadamente 400km de ciclovias (que inclusive interligam a capital a outros municípios) e 50% da população usa este meio de transporte para se locomover para o trabalho ou escola. A cidade também investe em "telhados verdes", telhados não utilizados que desenvolvem a flora, gerenciando a água de chuva de forma eficiente e sustentável.
+        </texto>
     </principal>
     <rodape>
-        <texto codigo="17">
+        <texto codigo="18">
             © 2021
         </texto>
-        <texto codigo="18">
+        <texto codigo="19">
             Contato
         </texto>
-        <texto codigo="19">
+        <texto codigo="20">
             Casa ONU Brasil Quadra 802, Conjunto C, Lote 17 Setor de Embaixadas Norte
         </texto>
-        <texto codigo="20">
+        <texto codigo="21">
             CEP: 70800-400
         </texto>
-        <texto codigo="21">
+        <texto codigo="22">
             Brasília, DF, Brasil
         </texto>
-        <texto codigo="22">
+        <texto codigo="23">
             +55 (61) 3038-9300
         </texto>
-        <texto codigo="23">
+        <texto codigo="24">
             Redes sociais
         </texto>
-        <texto codigo="24">
+        <texto codigo="25">
             Instagram
         </texto>
-        <texto codigo="25">
+        <texto codigo="26">
             Twitter
         </texto>
-        <texto codigo="26">
+        <texto codigo="27">
             Facebook
         </texto>
-        <imagem codigo="3">
-            
+        <imagem codigo="16">
+            onu-logo.png
         </imagem>
     </rodape>
 </conteudo>
