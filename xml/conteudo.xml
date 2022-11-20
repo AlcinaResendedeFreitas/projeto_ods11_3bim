@@ -8,7 +8,7 @@
             Cidades e Comunidades Sustentáveis
         </texto>
     </cabecalho>
-    <principal>
+    <corpo>
         <texto codigo="2">
             "Tornar as cidades e comunidades mais inclusivas, seguras, resilientes e sustentáveis"
         </texto>
@@ -99,7 +99,7 @@
         <texto codigo="17">
             A cidade sustenta o título de “A cidade mais verde do mundo”, cedido à ela em 2017 pelo grupo C40 de Grandes Cidade para a Liderança Climática. A cidade é uma das que mais investe no uso das bicicletas pela população. São aproximadamente 400km de ciclovias (que inclusive interligam a capital a outros municípios) e 50% da população usa este meio de transporte para se locomover para o trabalho ou escola. A cidade também investe em "telhados verdes", telhados não utilizados que desenvolvem a flora, gerenciando a água de chuva de forma eficiente e sustentável.
         </texto>
-    </principal>
+    </corpo>
     <rodape>
         <texto codigo="18">
             © 2021
