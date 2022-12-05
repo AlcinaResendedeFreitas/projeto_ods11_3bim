@@ -142,15 +142,15 @@ function mostrarBlog(){
     for(i = 0; i < xml_postagem_blog.length; i++){
     document.write(
         "<div class='row py-md-5 my-md-0 px-md-2 border'>" +
-            "<div class='col-md-3 col-12 py-md-2 py-3 h3'>" +
-            "<a class='text-decoration-none' href='blog.html?codigo_postagem=" + i + "'>" + xml_postagem_blog[i].getElementsByTagName("titulo-blog")[0].childNodes[0].nodeValue + "</a>" +
+            "<div class='col-md-3 col-12 py-md-2 py-3 h3''>" +
+            "<a  id='title-text-color' class='text-decoration-none' href='blog.html?codigo_postagem=" + i + "'>" + xml_postagem_blog[i].getElementsByTagName("titulo-blog")[0].childNodes[0].nodeValue + "</a>" +
             "</div>" +
             "<div class='col-md-4 col-12 py-md-0 py-4'>" +
             "<img class='rounded'src='imgs/"+ xml_postagem_blog[i].getElementsByTagName("imagem-blog")[0].childNodes[0].nodeValue +"' width='375'></img>" +
             "</div>" +
             "<div class='col-md-5 col-12 py-md-0 my-md-0 px-5 my-4 py-4 h5'>" +
             xml_postagem_blog[i].getElementsByTagName("conteudo-blog")[0].childNodes[0].nodeValue.substr(0,400) + "... " +
-            "<a class='text-decoration-none' href='blog.html?codigo_postagem=" + i + "'>(Leia mais)</a>"+
+            "<a  id='title-text-color' href='blog.html?codigo_postagem=" + i + "'>(Leia mais)</a>"+
             "</div>" +
         "</div>"
     )
