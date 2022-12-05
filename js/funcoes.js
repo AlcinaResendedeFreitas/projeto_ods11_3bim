@@ -5,6 +5,7 @@ xmlhttp.send();
 xmlDoc = xmlhttp.responseXML;
 var xml_texto = xmlDoc.getElementsByTagName("texto");
 var xml_imagem = xmlDoc.getElementsByTagName("imagem");
+var xml_postagem_blog = xmlDoc.getElementsByTagName("postagem");
 
 function mostrarImagem1(){
     document.write("<img src='imgs/" + xml_imagem[0].childNodes[0].nodeValue + "' class='d-inline-block' width='72' height='72'>");
@@ -133,12 +134,50 @@ function mostrarTexto17(){
     document.write(xml_texto[16].childNodes[0].nodeValue);
 }
 
-function mostrarImagem16(){
-    document.write("<img class='bi me-2' src='imgs/" + xml_imagem[15].childNodes[0].nodeValue + "' width='160' height='135'>")
-}
-
 function mostrarTexto18(){
     document.write(xml_texto[17].childNodes[0].nodeValue);
+}
+
+function mostrarBlog(){
+    for(i = 0; i < xml_postagem_blog.length; i++){
+    document.write(
+        "<div class='row py-md-5 my-md-0 px-md-2 border'>" +
+            "<div class='col-md-3 col-12 py-md-2 py-3 h3'>" +
+            "<a class='text-decoration-none' href='blog.html?codigo_postagem=" + i + "'>" + xml_postagem_blog[i].getElementsByTagName("titulo-blog")[0].childNodes[0].nodeValue + "</a>" +
+            "</div>" +
+            "<div class='col-md-4 col-12 py-md-0 py-4'>" +
+            "<img class='rounded'src='imgs/"+ xml_postagem_blog[i].getElementsByTagName("imagem-blog")[0].childNodes[0].nodeValue +"' width='375'></img>" +
+            "</div>" +
+            "<div class='col-md-5 col-12 py-md-0 my-md-0 px-5 my-4 py-4 h5'>" +
+            xml_postagem_blog[i].getElementsByTagName("conteudo-blog")[0].childNodes[0].nodeValue.substr(0,400) + "... " +
+            "<a class='text-decoration-none' href='blog.html?codigo_postagem=" + i + "'>(Leia mais)</a>"+
+            "</div>" +
+        "</div>"
+    )
+    };
+}
+
+function mostrarPostagem(){
+    url = new URL(window.location.href);
+    parametro = url.searchParams;
+    i = parametro.get("codigo_postagem");
+    document.write(
+        "<div class='row d-flex px-2 my-4'>" +
+          "<div id='title-text-color' class='d-flex col-6 col-md-12 justify-content-center h2'>" +
+          xml_postagem_blog[i].getElementsByTagName("titulo-blog")[0].childNodes[0].nodeValue +
+          "</div>" +
+        "</div>" +
+  
+        "<div class='container'>" +
+           "<img class='img-responsive rounded' src='imgs/" + xml_postagem_blog[i].getElementsByTagName("imagem-blog")[0].childNodes[0].nodeValue + "' width='100%'>" +
+           "<br><br><br><br>" +
+           "<a class='h4 text-decoration-none text-light'>" + xml_postagem_blog[i].getElementsByTagName("conteudo-blog")[0].childNodes[0].nodeValue + "</a>" +
+        "</div>"
+    );
+}
+
+function mostrarImagem16(){
+    document.write("<img class='bi me-2' src='imgs/" + xml_imagem[15].childNodes[0].nodeValue + "' width='160' height='135'>")
 }
 
 function mostrarTexto19(){
@@ -175,4 +214,8 @@ function mostrarTexto26(){
 
 function mostrarTexto27(){
     document.write(xml_texto[26].childNodes[0].nodeValue);
+}
+
+function mostrarTexto28(){
+    document.write(xml_texto[27].childNodes[0].nodeValue);
 }

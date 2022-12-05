@@ -69,36 +69,138 @@
         <texto codigo="17">
             A cidade sustenta o título de “A cidade mais verde do mundo”, cedido à ela em 2017 pelo grupo C40 de Grandes Cidade para a Liderança Climática. A cidade é uma das que mais investe no uso das bicicletas pela população. São aproximadamente 400km de ciclovias (que inclusive interligam a capital a outros municípios) e 50% da população usa este meio de transporte para se locomover para o trabalho ou escola. A cidade também investe em "telhados verdes", telhados não utilizados que desenvolvem a flora, gerenciando a água de chuva de forma eficiente e sustentável.
         </texto>
+        <texto codigo="18">
+            Blog de notícias
+        </texto>
+        <blog>
+            <postagem codigo="1">
+                <titulo-blog>As 100 cidades mais sustentáveis do mundo em 2022</titulo-blog>
+                <conteudo-blog>
+                    29/11/2022
+                    Ranking analisou 100 cidades, em 47 países, em critérios ambientais, sociais e econômicos. São Paulo ocupa a 84ª posição da lista.
+                    Desde 2015, a Arcadis, empresa de consultoria e soluções sustentáveis de design e engenharia, divulga uma lista anual das cidades mais avançadas em sustentabilidade no mundo. O Sustainable Cities Index 2022 avaliou 100 cidades, em 47 países, com base em 51 métricas, em 26 indicadores organizados sob os três pilares da sustentabilidade: Planeta (ambiental), Pessoas (social) e Lucro (econômico). 
+                    “O CSI 2022 oferece ainda uma nova visão de prosperidade, que coloca o planeta e as pessoas no centro. O lucro pode – e deve – ser um catalisador para o bem-estar social e ambiental. Cidades que não podem recorrer à força da economia inevitavelmente se encontrarão limitadas em seus esforços para melhorar a vida de seus cidadãos ou investir na transição para a sustentabilidade”, diz o relatório.
+                    A capital norueguesa Oslo lidera o índice geral. Estocolmo (Suécia), Tóquio (Japão), Copenhague (Dinamarca) e Berlim (Alemanha) completam as cinco primeiras posições da lista.
+                    Com exceção de Tóquio, o top 20 é ocupado apenas por cidades europeias e norte-americanas, com destaque para as escandinavas, que detêm três lugares nas cinco primeiras posições. 
+                    A brasileira mais bem colocada na avaliação geral é São Paulo, na 84ª posição, que também aparece como número 94 em Pessoas. Rio de Janeiro é indicada em 48º lugar em Planeta e 83º em Lucro.
+
+                    Oslo: a número 1
+
+                    A campeã Oslo ficou em 1º lugar no pilar Planeta, 17º no Pessoas e 39º no Lucro. Segundo a Arcadis, embora todos os pilares tenham peso forte na classificação final, o Planeta é o mais importante. 
+                    A cidade norueguesa de cerca de 650 mil habitantes apresenta, historicamente, uma forte preocupação ambiental e tem intensificado esses esforços nos últimos anos. 
+                    No transporte, por exemplo, desde a década de 1990 incentiva a população a usar veículos elétricos – hoje, a cidade é líder mundial em mobilidade elétrica e pretende chegar a 100% dos carros em 2025. Paralelamente, grandes investimentos vêm sendo feitos em transporte público, infraestrutura cicloviária e hidrovias.
+                    A gestão de resíduos é outro ponto forte. Além de um completo serviço de coleta seletiva e uma série de programas de reciclagem, o município é o primeiro a testar a captura e armazenamento de carbono por meio da incineração de resíduos. 
+                    “A gestão de resíduos é um desafio global que atualmente gera enormes emissões. Grandes volumes de resíduos são depositados em aterros sanitários. Recuperar energia desses resíduos usando a captura de carbono é parte da solução. O conhecimento norueguês pode se tornar uma exportação global”, diz o prefeito de Oslo, Raymond Johansen.
+                    A estratégia climática da capital norueguesa também é ambiciosa e estabelece que Oslo se tornará praticamente sem emissões de gases de efeito estufa (GEE) até 2030, com redução de 95% nas emissões em comparação a 2009 – e 52% menos já em 2023. 
+                    A partir de 2030, o projeto é que Oslo seja uma "cidade negativa em carbono", diz o documento. A intenção é contribuir para a redução da quantidade  de GEE na atmosfera por meio biológico e captura e armazenamento industrial de carbono.
+                    Ainda está prevista uma redução de 10% no consumo total de energia até 2030, em relação a 2009. E a resiliência está sendo reforçada para resistir aos impactos da mudança climática esperados até 2100, com medidas de adaptação como telhados verdes e espaços para escoamento de água.
+                    As cidades são a chave para atingir as metas climáticas
+                    Mais da metade da população mundial vive em cidades e, até 2050, a projeção é que esta medida suba para dois terços. Nesse contexto, a Arcadis ressalta no Sustainable Cities Index 2022 que ao mesmo tempo em que alimentam alguns dos nossos maiores desafios, como a crise climática, as metrópoles também podem ser a solução. 
+                    “Estimativas da ONU Habitat indicam que enquanto as cidades representam apenas menos de 2% da superfície da Terra, consomem 78% da energia mundial e produzem mais de 60% das emissões de gases de efeito estufa”, afirma o estudo.
+                    No entanto, lembra o relatório, é nas cidades onde as pessoas se reúnem para encontrar soluções inovadoras para os problemas da humanidade e onde novos caminhos para o futuro são testados e aprimorados.
+                </conteudo-blog>
+                <imagem-blog>blog-img1.webp</imagem-blog>
+            </postagem>
+            <postagem codigo="2">
+                <titulo-blog>Índice de Desenvolvimento Sustentável vai avaliar os 645 municípios paulistanos</titulo-blog>
+                <conteudo-blog>
+                    03/12/2022
+                    O estado de São Paulo será o primeiro do país a contar com uma plataforma de monitoramento de todos os seus municípios segundo os Objetivos do Desenvolvimento Sustentável estabelecidos pela ONU. O Índice de Desenvolvimento Sustentável das Cidades — SP (IDSC-SP) será lançado na próxima quarta-feira (7.12), às 17h, em evento online e gratuito.
+                    Na ocasião, participam do debate de lançamento o Diretor-geral do Instituto Cidades Sustentáveis, Jorge Abrahão, e representantes do Coletivo 660. A transmissão ao vivo do evento será feita pelas redes sociais da Ação Educativa e do Instituto Cidades Sustentáveis.
+                    Por meio de 100 indicadores, a ferramenta identifica os desafios e avanços dos municípios paulistas no cumprimento da Agenda 2030, cobrindo as diversas áreas de atuação da administração pública. É também uma resposta ao desafio de municipalizar as metas e objetivos acordados em âmbito global, uma plataforma única onde cada cidade pode acompanhar seus desafios e prioridades para avançar na pauta.
+                    O IDSC-SP permite uma série de análises que incluem e vão além dos limites municipais. É possível, por exemplo,     verificar os dados de cada uma das 645 cidades do estado de São Paulo, estabelecer recortes geográficos mais amplos, como as regiões metropolitanas ou, ainda, agrupar e comparar os municípios de acordo com aspectos demográficos, sociais e ambientais, entre outros.
+                    O índice das cidades paulistas é resultado de uma ação conjunta entre o Coletivo 660, Ação Educativa e Instituto Cidades Sustentáveis (ICS), e acontece no âmbito do projeto Inovação, desenvolvimento e resiliência para as políticas públicas em São Paulo: um mapa para os desafios entre 2020-2030), da Secretaria de Desenvolvimento Econômico do Estado de São Paulo.
+                    Além do desenvolvimento da ferramenta, que permitiu identificar os desafios relacionados às dinâmicas dos principais temas para o estado, o projeto promoveu o encontro entre pesquisadores, lideranças de movimentos sociais, entidades e organizações. Dessa forma, foi possível mapear alternativas, propostas e eixos estruturantes para o modelo de desenvolvimento adotado no estado de São Paulo.
+
+                    Mais sobre o IDSC
+
+                    O Índice de Desenvolvimento Sustentável das Cidades pretende gerar um movimento de transformação na gestão pública municipal. A intenção é orientar a ação política de prefeitos e prefeitas, definir referências e metas com base em indicadores e facilitar o monitoramento dos ODS em nível local.
+                    A metodologia do Índice foi elaborada pela SDSN (UN Sustainable Development Solution Network), e, em 2022, o IDSC-BR reuniu dados e indicadores dos 5.570 municípios brasileiros, base que permitiu construir e desenvolver o IDSC-SP. O IDSC apresenta uma avaliação abrangente da distância para se atingir dos ODS, usando os dados mais atualizados disponíveis em fontes públicas e oficiais do Brasil.
+                    Além da pontuação e da classificação de cada cidade, também apresenta os Painéis ODS, uma representação visual do desempenho — o nível de desenvolvimento — dos municípios nos 17 ODS. O sistema de classificação por cores (verde, amarelo, laranja e vermelho) indica o avanço do município para alcançar o objetivo.
+
+                    Sobre o Coletivo 660
+
+                    Articulado por especialistas e ativistas históricos do campo de defesa de direitos humanos, o Coletivo 660 – iniciativa acolhida pela Ação Educativa – tem trabalhado centralmente com a agenda de transição para um novo modelo sistêmico.
+                    Em seus 22 anos de atuação, o grupo articulou diversas atividades com instituições e parceiros internacionais, formando uma rede de atores com importante acúmulo na formulação de alternativas sistêmicas (entre eles a Systemic Alternatives Network, a Assembleia Mundial pela Amazônia, o Diálogo Global por Mudança Sistêmica). Nos últimos dois anos, o Coletivo 660 tem tido como foco temático a crise sistêmica, a emergência socioambiental.
+
+                    Sobre a Ação Educativa
+
+                    Fundada em 1994, a Ação Educativa é uma associação civil sem fins lucrativos que atua nos campos da educação, da cultura e da juventude, na perspectiva dos direitos humanos.
+                    Para tanto, realiza atividades de formação e apoio a grupos de educadores, jovens e agentes culturais. Integra campanhas e outras ações coletivas que visam à realização desses direitos. Desenvolve pesquisas e metodologias participativas com foco na construção de políticas públicas sintonizadas com as necessidades e interesses da população.
+                    Sobre o ICS
+                    O Instituto Cidades Sustentáveis atua para o desenvolvimento justo e sustentável das cidades no Brasil. A partir de duas iniciativas, o Programa Cidades Sustentáveis (PCS) e a Rede Nossa São Paulo (RNSP), busca melhorar a qualidade de vida das pessoas, combate às desigualdades, da promoção dos direitos humanos, da participação social, da transparência e da defesa do meio ambiente.
+                </conteudo-blog>
+                <imagem-blog>blog-img2.jpg</imagem-blog>
+            </postagem>
+            <postagem codigo="3">
+                <titulo-blog>Fórum Brasil África 2022 tem como tema Cidades Sustentáveis</titulo-blog>
+                <conteudo-blog>
+                    29/11/2022
+                    Após duas edições online, em 2020 e 2021, o Fórum Brasil África 2022 será presencial e acontece nos dias 29 e 30 de novembro, no WTC Events, em São Paulo. O tema desta que é a décima edição é Cidades Sustentáveis: desafios globais, soluções locais. Realizado pelo Instituto Brasil África (Ibraf), o evento possibilita boas práticas, troca de experiências e facilita as parcerias entre o Brasil e o continente africano.
+                    O Fórum Brasil África (BAF, na sigla em inglês) deste ano pretende inspirar gestores brasileiros e africanos para uma agenda urbana mais justa, democrática e sustentável e reunirá chefes de Estado, agentes governamentais, líderes de agências de fomento e instituições financeiras, além de representantes do setor privado e sociedade civil.
+                    O fundador e presidente do Ibraf, João Bosco Monte (foto), informou que a programação terá nove eixos com temas-chave: Infraestrutura, Saúde e Saneamento, Mobilidade Urbana, Energias Renováveis, Gestão de Resíduos, Agricultura Urbana, PPPs, Esportes e Indústria Criativa.
+                    Também estão previstas na programação sessões plenárias com palestrantes convidados nas suas áreas de especialização, eventos paralelos e showcases sobre temas relacionados a políticas públicas e planejamento urbano.
+                    O fórum terá transmissão ao vivo com tradução simultânea (francês, inglês e português) por meio das redes sociais do Ibraf, que possibilitará a participação de pessoas onde quer que elas estejam. As inscrições estão abertas para a participação presencial pelo site do evento.
+                    O BAF se consolida como encontro gerador de oportunidades entre o Brasil e os países africanos, ao buscar melhorias e aperfeiçoamento, tanto de instalações físicas, com infraestrutura, energia e saneamento – além de treinamentos educacional e técnico ligados à tecnologia – com presenças de lideranças africanas e brasileiras, assim como um time especializado de palestrantes que marcaram presença ao longo dos anos.
+                    João Bosco Monte é professor, doutor em Educação pela Universidade Federal do Ceará e tem pós-doutorado pela Universidade de Brasília (UnB), com o foco da pesquisa na integração do continente africano. Ele já esteve em 46 dos 54 países africanos. O presidente do Ibraf contou que “das 10 economias que mais cresceram, sete estão no continente africano. Hoje, a população está em torno de 1,4 bilhão de habitantes. Em 2050, a expectativa é que tenhamos quase 3 bilhões de pessoas residindo lá. É preciso virarmos nossos olhos para a África. Lá há ótimos negócios em potencial”, declarou.
+                    Monte afirmou que “o Brasil e a África abrigam várias das cidades mais importantes do mundo, algumas com dezenas de milhões de habitantes e outras com dotes naturais inigualáveis, dinâmica política única e desenvolvimento econômico proeminente. São Paulo, Rio de Janeiro, Fortaleza, Brasília e Porto Alegre, do lado brasileiro, Lagos, Kinshasa, Joanesburgo, Nairóbi e Cairo, do lado africano, para citar alguns, são grandes exemplos do que pode ser alcançado no nível de desenvolvimento sustentável. Essas cidades enfrentam barreiras comuns e estão prosperando com ideias inovadoras, precisando apenas de um brilho para abalar o status quo e transformar a vida de inúmeros cidadãos”, disse.
+                    O secretário-geral da Câmara de Comércio Árabe Brasileira, Tamer Mansour, participa do painel O avanço das energias renováveis para o futuro das cidades, às 11 horas, no dia 30 de novembro. A plenária contará com a presença de Frannie Léautier, CEO do Grupo SouthBridge Investiments; Eduardo Pimentel, vice-prefeito de Curitiba; Jorge Samek, ex diretor-geral brasileiro da Itaipu Binacional; Henrique Pissaia, coordenador-geral para Alianças Estratégicas do Fundo Financeiro para Desenvolvimento da Bacia do Prata (Fonplata); Francisco Carvalho, Prefeito de Praia (Cabo Verde); e moderação de Pablo Ribeiro.
+                    A plenária discutirá de que forma as energias renováveis podem contribuir para resolver problemas urbanos urgentes, como gestão de resíduos, energia, poluição do ar, além de melhorar a qualidade de vida da população, e que políticas devem ser adotadas para promover projetos de energia renovável em assentamentos urbanos.
+                </conteudo-blog>
+                <imagem-blog>blog-img3.jpg</imagem-blog>
+            </postagem>
+            <postagem codigo="4">
+                <titulo-blog>Fórum global sobre cidades sustentáveis acontece em São Paulo dias 29 e 30</titulo-blog>
+                <conteudo-blog>
+                    21/11/2022
+                    Seguindo a preocupação mundial, a 10ª edição do Fórum Brasil África (BAF) será realizado com o tema: “Cidades Sustentáveis: Desafios Globais, Soluções Locais”. Idealizado pelo Instituto Brasil África (IBRAF), o evento acontecerá nos dias 29 e 30 de novembro, no WTC Sheraton, em São Paulo.
+                    Consolidado como uma conferência internacional e plataforma de negócios e oportunidades, o evento permite que Chefes de Estado, representantes de governos, ONGs, instituições financeiras e de desenvolvimento e setor privado explorem parcerias entre o continente africano e o Brasil.
+                    Serão dois dias de discussões envolvendo agricultura urbana, gestão de resíduos, infraestrutura, mobilidade, parcerias público-privadas, saneamento, energias renováveis, esportes e indústria criativa.
+                    Dentre as autoridades e empresários que estarão presentes do Brasil e da África – além de outros países – estarão: Dominic O'Neill, Diretor Executivo do Sanitation and Hygiene Fund (SHF); Donald Kaberuka, Presidente do Fundo Global, Enviado Especial da União Africana para África e Sócio Fundador do Grupo SouthBridge; Eduardo Pimentel, Vice-prefeito de Curitiba; Frannie Léautier, CEO do SouthBridge Investimentos; Henrique Pissaia, Coordenador-Geral de Alianças Estratégicas do FONPLATA; João Bosco Monte, Presidente do Instituto Brasil África; Maria Helena Semedo, Vice-Diretora Geral da Organização das Nações Unidas para Agricultura e Alimentação (FAO); Miguel Azevedo, Líder de Investimentos Bancários para o Oriente Médio e África (ex-conselheiro sênior) Citigroup; Natália Dias, CEO do Standard Bank Brasil; Otaviano Canuto, Ex-Diretor Executivo do Banco Mundial e da Mesa Diretora do Fundo Monetário Internacional; Patrick Dlamini, CEO e Diretor Administrativo do Banco de Desenvolvimento da África Austral (DBSA); Paulo Gomes, Presidente da Orango Investment Corporation; Roberto Rodrigues, Ex-Ministro da Agricultura do Brasil; Rodrigo Perpetuo, Secretário Executivo do ICLEI para América do Sul; Sergio Gusmão Suchodolski, Presidente do Banco Desenvolve SP; Tamer Mansour, CEO e Secretário Geral da Câmara de Comércio Árabe Brasileira; Walker Lahmann, Diretor Executivo da Eurofarma; Will Mbiakop, Presidente Executivo da ASCI e Ylias Akbaraly, Presidente da REDLAND, entre outras autoridades.
+                    O Fórum Brasil África é presidido pelo Prof. João Bosco Monte, presidente do Instituto África. A programação completa pode ser conferida em https://forumbrazilafrica.com/pt/programacao/.
+                </conteudo-blog>
+                <imagem-blog>blog-img4.jpg</imagem-blog>
+            </postagem>
+            <postagem codigo="5">
+                <titulo-blog>Fórum Internacional sobre cidades sustentáveis será realizado em Maceió</titulo-blog>
+                <conteudo-blog>
+                    09/11/22
+                    A capital alagoana recebe o 2º Fórum Internacional de Cidades Sustentáveis, um projeto fruto da parceria entre a Associação Nacional de Munícipios e Meio Ambiente (Anamma), a ALPA Climate Solutions e a Rede Argentina de Municípios contra as Mudanças Climáticas (RAMCC). O evento será realizado nos dias 10 e 11 de novembro, de forma híbrida - com sede no Hotel Ritz Lagoa da Anta.
+                    Na última edição, o Fórum contou com a mobilização de 4 mil pessoas, distribuídas ao redor de 10 países. A atividade despertou o interesse da comunidade e firma o compromisso das nações sul-americanas no combate às mudanças climáticas.
+                </conteudo-blog>
+                <imagem-blog>blog-img5.jpg</imagem-blog>
+            </postagem>
+        </blog>
     </corpo>
     <rodape>
-        <texto codigo="18">
+        <texto codigo="19">
             © 2021
         </texto>
-        <texto codigo="19">
+        <texto codigo="20">
             Contato
         </texto>
-        <texto codigo="20">
+        <texto codigo="21">
             Casa ONU Brasil Quadra 802, Conjunto C, Lote 17 Setor de Embaixadas Norte
         </texto>
-        <texto codigo="21">
+        <texto codigo="22">
             CEP: 70800-400
         </texto>
-        <texto codigo="22">
+        <texto codigo="23">
             Brasília, DF, Brasil
         </texto>
-        <texto codigo="23">
+        <texto codigo="24">
             +55 (61) 3038-9300
         </texto>
-        <texto codigo="24">
+        <texto codigo="25">
             Redes sociais
         </texto>
-        <texto codigo="25">
+        <texto codigo="26">
             Instagram
         </texto>
-        <texto codigo="26">
+        <texto codigo="27">
             Twitter
         </texto>
-        <texto codigo="27">
+        <texto codigo="28">
             Facebook
         </texto>
         <imagem codigo="16">onu-logo.png</imagem>
